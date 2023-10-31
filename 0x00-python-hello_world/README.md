@@ -1,1 +1,1 @@
-this is hello word project
+this is hello world project
