@@ -1,6 +1,8 @@
-0x03. Python - Data Structures: Lists, Tuples
----
-Task directory using data structures in python
+## 0x03. Python - Data Structures: Lists, Tuples
 
-| TASK | DESCRIPTION |
-| ------ | ------ |
+Lists & Tuples
+
+## Tasks
+
+[0. Print a list of integers ]()
+
